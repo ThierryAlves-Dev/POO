@@ -10,12 +10,11 @@ import java.util.Scanner;
 public class Banco{
 
 	// ===== CREDENCIAIS DO RAILWAY =====
-	// Host, porta e senha removidos por segurança, pois o repositório é público.
-	private static final String HOST = "[REMOVIDO POR SEGURANÇA]";
-	private static final String PORTA = "[REMOVIDA POR SEGURANÇA]";
+	private static final String HOST = "trolley.proxy.rlwy.net";
+	private static final String PORTA = "29899";
 	private static final String BANCO = "railway";
 	private static final String USUARIO = "root";
-	private static final String SENHA = "[REMOVIDA POR SEGURANÇA]";
+	private static final String SENHA = "XVjkpBjfWWEUUtxJAujehpHbLSVIRoJi";
 
 	public static void main(String[] args) {
 
